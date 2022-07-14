@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head>
+	<title>Apple Sauce Pancakes</title>
+</head>
+<body>
+	<h1 id="title">Apple Sauce Pancakes</h1>
+	<ul>
+		<li class="Ingredient">1 1/2 cups flour</li>
+		<li class="Ingredient">2 Tbs. sugar</li>
+		<li class="Ingredient">3/4 Tbs. baking powder</li>
+		<li class="Ingredient">1/4 tsp salt</li>
+		<li class="Ingredient">2 eggs</li>
+		<li class="Ingredient">1 cup applesauce-chunky</li>
+		<li class="Ingredient">3/4 cup milk (use more to thin batter if needed)</li>
+		<li class="Ingredient">2 Tbs. melted butter</li>
+	</ul>
+	
+	<p class="Instructions">Mix the dry and wet (except butter) separately, then mix wet into dry. Mix in butter last. Cook on skillet like regular pancakes.</p>
+</body>
